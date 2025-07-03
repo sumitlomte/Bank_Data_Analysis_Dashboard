@@ -1,5 +1,6 @@
 🏦 Banking Performance Dashboard – Power BI
-<!-- Replace with your actual image link -->
+![image](https://github.com/user-attachments/assets/36b98f42-1f4f-4924-bcfd-7d19e17f3df1)
+
 
 📌 Project Overview
 This project presents an interactive Banking Performance Dashboard built using Power BI, aimed at tracking key financial and customer metrics for a fictional bank. It visualizes insights such as loan approvals, deposit trends, customer growth, and branch-wise performance.
