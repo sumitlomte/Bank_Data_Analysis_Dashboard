@@ -2,7 +2,7 @@
 
 
 📌 Project Overview
-This project presents an interactive Banking Performance Dashboard built using Power BI, aimed at tracking key financial and customer metrics for a fictional bank. It visualizes insights such as loan approvals, deposit trends, customer growth, and branch-wise performance.
+    This project presents an interactive Banking Performance Dashboard built using Power BI, aimed at tracking key financial and customer metrics for a fictional bank. It     visualizes insights such as loan approvals, deposit trends, customer growth, and branch-wise performance.
 
 📂 Dataset
 The dataset includes transactional and customer-level data relevant to banking operations:
