@@ -1,5 +1,4 @@
 🏦 Banking Performance Dashboard – Power BI
-![image](https://github.com/user-attachments/assets/36b98f42-1f4f-4924-bcfd-7d19e17f3df1)
 
 
 📌 Project Overview
@@ -8,57 +7,62 @@ This project presents an interactive Banking Performance Dashboard built using P
 📂 Dataset
 The dataset includes transactional and customer-level data relevant to banking operations:
 
-Customer ID and demographics
+  Customer ID and demographics
+  
+  Loan approval amounts and statuses
+  
+  Deposits and withdrawals
+  
+  Branch location and performance
 
-Loan approval amounts and statuses
-
-Deposits and withdrawals
-
-Branch location and performance
-
-Time-based financial trends
+  Time-based financial trends
 
 🔄 Project Workflow
-Data Loading & Cleaning:
-
-Imported data from Excel/CSV files
-
-Removed nulls and duplicate records
-
-Created relationships using Power BI's data model
-
-📊 Dashboard Design & KPIs:
-
-Loan Approval Rate
-
-Total Deposits vs Withdrawals
-
-Active vs Inactive Customers
-
-Monthly/Quarterly Financial Trends
-
-Branch-wise Contribution
-
-📈 DAX Measures & Slicers:
-
-Dynamic date filtering
-
-Region-wise and product-type filters
-
-Custom DAX formulas for YoY growth, averages, and rank
+  Data Loading & Cleaning:
+  
+    Imported data from Excel/CSV files
+    
+    Removed nulls and duplicate records
+    
+    Created relationships using Power BI's data model
+  
+  📊 Dashboard Design & KPIs:
+  
+    Loan Approval Rate
+    
+    Total Deposits vs Withdrawals
+  
+    Active vs Inactive Customers
+    
+    Monthly/Quarterly Financial Trends
+    
+    Branch-wise Contribution
+    
+  📈 DAX Measures & Slicers:
+  
+    Dynamic date filtering
+    
+    Region-wise and product-type filters
+    
+    Custom DAX formulas for YoY growth, averages, and rank
 
 🛠 Tools Used
-Power BI Desktop
-
-DAX (Data Analysis Expressions)
-
-Excel (for initial data prep)
-
-Power Query
+  Power BI Desktop
+  
+  DAX (Data Analysis Expressions)
+  
+  Excel (for initial data prep)
+  
+  Power Query
 
 📊 Dashboard Views
-📸 Replace these with actual screenshots stored in your repo
+![Screenshot 2025-07-03 172520](https://github.com/user-attachments/assets/533fc5f2-a27d-41dc-959f-74177077580a)
 
+![Screenshot 2025-07-03 172543](https://github.com/user-attachments/assets/0adbfcfc-1942-4a40-8273-18fc8b708f3a)
+
+![Screenshot 2025-07-03 172600](https://github.com/user-attachments/assets/aea87fb0-a0c5-425e-9d80-920cb1ebb815)
+
+![Screenshot 2025-07-03 172619](https://github.com/user-attachments/assets/789c37d3-4554-452e-9fa2-5595a8b21071)
 
 
 
